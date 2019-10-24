@@ -24,6 +24,6 @@ You can take a look at the [Programming Language List](https://en.wikipedia.org/
 Once you have completed these steps, you are ready to start contributing 
 by checking our `Help Wanted` issues and creating [pull requests](https://github.com/GitHubExperts-LK/Hello-World/pulls).
 
-### 5. Give this Project a Star :star:
+### 5. Give this Project a Star :star::star:
 
 If you liked working on this project, please share this project as much 
